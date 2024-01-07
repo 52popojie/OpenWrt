@@ -19,4 +19,3 @@
 
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
-echo 'src-git jerrykuku https://github.com/jerrykuku/luci-theme-argon' >>feeds.conf.default
